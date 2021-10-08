@@ -4,10 +4,10 @@
 * Display the prices and product information on an interactive website.
 
 ## Code and Recources Used
-**Python Version:** 3.7
-**Packages:** pandas, selenium, numpy, beautifulsoup4
-**WebsiteServer:** WampServer Wersion 2.5, PHP
-My first repository on GitHub
+* **Python Version:** 3.7
+* **Packages:** pandas, selenium, numpy, beautifulsoup4
+* **WebsiteServer:** WampServer Wersion 2.5, PHP
+* **CSS Tools:** https://www.nexpertsacademy.com/
 
 ## Web Scraping
 Create a web scraper to collect the product info from Shopee and Lazada websites. The product info scraped are as following:
