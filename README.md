@@ -17,6 +17,6 @@ Create a web scraper to collect the product info from Shopee and Lazada websites
 *   Product Buy Link
 
 ## Integrating PHP with Python
-Create PHP file which takes action to scrape data using python. The PHP file functions as a price comparison web when the user input a product. The website interface is as below:
+Create PHP file which takes action to scrape data of product using python and display the prouct information in a website. The website interface is as below:
 
 ![alt text](https://github.com/fahmi97rosli/hello-world/blob/5cf1bb5b614cf7ec2d808c438a7c03ce043570be/img/page%20price.JPG)
