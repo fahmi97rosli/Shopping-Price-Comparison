@@ -1,9 +1,3 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/fahmi97rosli/Shopping-Price-Comparison/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 # Shopping Price Comparison : Project Overview
 * Create a website that actively ask user for any product and allow for comparison of prices between e-commerces.
 * Scrape data from Shopee and Lazada website.
