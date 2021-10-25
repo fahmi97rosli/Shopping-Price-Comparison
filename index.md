@@ -4,34 +4,25 @@ You can use the [editor on GitHub](https://github.com/fahmi97rosli/Shopping-Pric
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# Shopping Price Comparison : Project Overview
+* Create a website that actively ask user for any product and allow for comparison of prices between e-commerces.
+* Scrape data from Shopee and Lazada website.
+* Display the prices and product information on an interactive website.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Code and Recources Used
+* **Python Version:** 3.7
+* **Packages:** pandas, selenium, numpy, beautifulsoup4
+* **WebsiteServer:** WampServer Wersion 2.5, PHP
+* **CSS Tools:** https://www.nexpertsacademy.com/
 
-```markdown
-Syntax highlighted code block
+## Web Scraping
+Create a web scraper to collect the product info from Shopee and Lazada websites. The product info scraped are as following:
+*   Product Name
+*   Product Price
+*   Product Image
+*   Product Buy Link
 
-# Header 1
-## Header 2
-### Header 3
+## Integrating PHP with Python
+Create PHP file which takes action to scrape data of product using python and display the prouct information in a website. The website interface is as below:
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fahmi97rosli/Shopping-Price-Comparison/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![alt text](https://github.com/fahmi97rosli/hello-world/blob/5cf1bb5b614cf7ec2d808c438a7c03ce043570be/img/page%20price.JPG)
