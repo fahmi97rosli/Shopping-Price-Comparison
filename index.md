@@ -20,3 +20,4 @@ Create a web scraper to collect the product info from Shopee and Lazada websites
 Create PHP file which takes action to scrape data of product using python and display the prouct information in a website. The website interface is as below:
 
 ![Image](https://github.com/fahmi97rosli/Shopping-Price-Comparison/blob/gh-pages/pageprice.jpg?raw=true)
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/fahmi97rosli/Shopping-Price-Comparison/blob/gh-pages/pageprice.jpg?raw=true"><img src="https://github.com/fahmi97rosli/Shopping-Price-Comparison/raw/gh-pages/pageprice.jpg?raw=true" alt="Image" style="max-width: 100%;"></a>
